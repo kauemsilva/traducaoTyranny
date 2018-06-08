@@ -1,10 +1,10 @@
 # Tradução do Jogo Tyranny
 
 # Autor: 
-# * Kauê Martins Silva	-	https://www.youtube.com/kauemsilva
+ * Kauê Martins Silva	-	https://www.youtube.com/kauemsilva
 
 # Coolaboradores:
-# *
+ *
 
  
 # NÃO ESQUEÇA DE CHECAR TERMOS NO TÓPICO "WIKI > DICIONÁRIO", CASO ENCONTRE O TERMO E ACHE NECESSÁRIO, FAVOR INSERI-LO.
