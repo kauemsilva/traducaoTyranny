@@ -33,28 +33,28 @@ Durante anos, você viveu com esses homens selvagens em suas casas migratórias 
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>During the Conquest you will decide your character's actions during [url=glossary:kyros]Kyros[/url]' invasion of the Tiers, shaping the world through which you will adventure over the course of the game.
+      <DefaultText>No modo Conquista você decidirá as ações de seu personagem durante a invasão de [url=glossary:kyros]Kyros[/url] aos Tiers, Moldando o mundo através do qual você irá se aventurar ao decorrer do jogo.
 
-Each choice you make affects your character and how major factions of the Tiers respond to you.
+Cada escolha que você faz afeta seu personagem e como as facções principais dos Tiers respondem a você.
 
-Your decisions matter - choose wisely.</DefaultText>
+Suas decisões importam - Escolha sabiamente.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>You granted control of [url=glossary:lethian's crossing]Lethian's Crossing[/url] to the [url=glossary:scarlet chorus]Scarlet Chorus[/url].</DefaultText>
+      <DefaultText>Você concedeu o controle do [url=glossary:Cruzamento de Lethian]Cruzamento de Lethian[/url] ao [url=glossary:coro escarlate]Coro Escarlate[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>You granted control of [url=glossary:lethian's crossing]Lethian's Crossing[/url] to the [url=glossary:disfavored]Disfavored[/url].</DefaultText>
+      <DefaultText>Você concedeu o controle do [url=glossary:Cruzamento de Lethian]Cruzamento de Lethian[/url] aos [url=glossary:desfavorecidos]Desfavorecidos[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>With the mercenaries expelled and [url=glossary:lethian's crossing]Lethian's Crossing[/url] under new leadership, [url=glossary:kyros]Kyros[/url]' forces congratulated themselves on bringing order to the settlement and guaranteeing a productive flow of resources. 
+      <DefaultText>Com a expulsão dos mercenários e o [url=glossary:Cruzamento de Lethian]Cruzamento de Lethian[/url] sob nova liderança, as forças de [url=glossary:kyros]Kyros[/url] parabenizaram-se por trazerem ordem ao assentamento e garantirem um fluxo produtivo de recursos. 
 
-Over the course of this diversion, the army front advanced further into the Tiers. Your skills were needed in the Realm of Azure, Stalwart, or the [url=glossary:vellum citadel]Vellum Citadel[/url].</DefaultText>
+Ao decorrer dessa incursão, a linha de frente adentrou ainda mais nos Tiers. Suas habilidades foram necessárias no Reino de Azure, Stalwart, ou na [url=glossary:cidadela de vellum]Cidadela de Vellum[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
