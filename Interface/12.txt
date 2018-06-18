@@ -59,21 +59,21 @@ Ao decorrer dessa incursão, a linha de frente adentrou ainda mais nos Tiers. Su
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>Tragedy struck when a mercenary hired by [url=glossary:the voices of nerat]the Voices of Nerat[/url] injured a [url=glossary:forge-bound]Forge-Bound[/url] artisan, leaving him unable to practice his craft. [url=glossary:tunon]Tunon[/url] ordered the mercenaries to leave the city in the hands of [url=glossary:kyros]Kyros[/url]' more responsible servants.
+      <DefaultText>A tragédia aconteceu quando um mercenário contratado pelas  [url=glossary:As Vozes de Nerat]Vozes de Nerat[/url] feriu um artesão dos [url=glossary:Mestres da forja]Mestres da forja[/url], deixando ele incapaz de exercer seu ofício. [url=glossary:tunon]Tunon[/url] ordenou que os mercenário deixassem a cidade nas mãos de servos de [url=glossary:kyros]Kyros[/url] mais competentes.
 
-Only a token garrison could be left behind while the armies returned to the front. As the [url=glossary:disfavored]Disfavored[/url] and [url=glossary:scarlet chorus]Scarlet Chorus[/url] showed increasing tension and hostility toward each other, [url=glossary:tunon]Tunon[/url] decreed it best that only one force control the Crossing.</DefaultText>
+Apenas uma guarnição simbólica pôde ser deixada enquanto as tropas retornavam ao front de batalha. Como os [url=glossary:desfavorecido]Desfavorecidos[/url] e o [url=glossary:Coro Escarlate]Coro Escarlate[/url] mostraram hostilidade e uma tensão crescente entre si, [url=glossary:tunon]Tunon[/url] decretou que seria melhor que apenas uma força controlasse o Cruzamento.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>The [url=glossary:vellum citadel]Vellum Citadel[/url] was an archive and library of massive scale. Its inhabitants were known as the School of Ink and Quill, a circle of mages that, centuries ago, carved out their own mountainous refuge on lands unsettled by the other major realms.
+      <DefaultText>A [url=glossary:Cidadela de Vellum]Cidadela de Vellum[/url] era um depósito de documentos e uma livraria de proporção massiva. Seus habitantes eram conhecidos como a Escola da pena e da tinta, um círculo de magos que, a seculos atrás, esculpiram seu próprio refugio montanhoso em terras não colonizadas pelas outras facções maiores.
 
-Legends said that the Citadel housed a treasure trove of arcane knowledge. The Overlord's spies infiltrated the school and confirmed as much. The time was ripe to send a detachment to the great library fortress, and force the scholars to yield to [url=glossary:kyros]Kyros[/url].</DefaultText>
+Lendas diziam que a cidadela abrigava um manancial de conhecimento arcano. Espiões do soberano se infiltraram na escola e puderam confirmar a veracidade de tais lendas. Era tempo de mandar um destacamento à grande livraria fortaleza, e forçar os eruditos a se renderam a [url=glossary:kyros]Kyros[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>Not wishing to pay to feed and house two, the madam that purchased your mother sold you to the Proving Grounds, the Northern Empire's bloodiest, most notorious fighting arena. Given only enough training to assure the show isn’t over too soon, your natural prowess and survival instinct led you to one victory after another. There was no elegant swordplay, no formalized duels - just brutal melee and the stench of blood, shit, and bronze with each day’s gruesome necessities.
+      <DefaultText>Desejando não ter que gastar dinheiro alimentando e abrigando a dois, a senhora que comprou sua mãe lhe vendeu aos campos da provação, a arena mais notória e sanguinária do império do norte. Recebendo treinamento suficiente apenas para garantir que o show não fosse tão breve, sua capacidade natural e seus instintos de sobrevivência o levaram a uma vitória após a outra. Não havia nenhuma esgrima elegante, nenhum duelo formal - apenas o combate brutal e o odor de sangue, merda, e bronze com as necessidades horrendas de cada dia.
 
 It is said that any fighter that slays a dozen others in the grand melee is given her freedom, but in three hundred years, only three warriors have ever walked away from the Proving Grounds. When the closing horns sounded and thirteen corpses lay about your feet, you became the fourth to be granted freedom to thunderous applause - but this autonomy was short-lived. Within days, word of your accomplishment made its way to the Archon of Justice.</DefaultText>
       <FemaleText />
