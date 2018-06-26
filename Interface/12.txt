@@ -59,9 +59,9 @@ Ao decorrer dessa incursão, a linha de frente adentrou ainda mais nos Tiers. Su
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>A tragédia aconteceu quando um mercenário contratado pelas  [url=glossary:As Vozes de Nerat]Vozes de Nerat[/url] feriu um artesão dos [url=glossary:Mestres da forja]Mestres da forja[/url], deixando ele incapaz de exercer seu ofício. [url=glossary:tunon]Tunon[/url] ordenou que os mercenário deixassem a cidade nas mãos de servos de [url=glossary:kyros]Kyros[/url] mais competentes.
+      <DefaultText>A tragédia aconteceu quando um mercenário contratado pelas  [url=glossary:As Vozes de Nerat]Vozes de Nerat[/url] feriu um artesão dos [url=glossary:mestres da forja]Mestres da forja[/url], deixando ele incapaz de exercer seu ofício. [url=glossary:tunon]Tunon[/url] ordenou que os mercenário deixassem a cidade nas mãos de servos de [url=glossary:kyros]Kyros[/url] mais competentes.
 
-Apenas uma guarnição simbólica pôde ser deixada enquanto as tropas retornavam ao front de batalha. Como os [url=glossary:desfavorecido]Desfavorecidos[/url] e o [url=glossary:Coro Escarlate]Coro Escarlate[/url] mostraram hostilidade e uma tensão crescente entre si, [url=glossary:tunon]Tunon[/url] decretou que seria melhor que apenas uma força controlasse o Cruzamento.</DefaultText>
+Apenas uma guarnição simbólica pôde ser deixada enquanto as tropas retornavam ao front de batalha. Como os [url=glossary:desfavorecido]Desfavorecidos[/url] e o [url=glossary:Coro Escarlate]Coro Escarlate[/url] demonstraram hostilidade e uma tensão crescente entre si, [url=glossary:tunon]Tunon[/url] decretou que seria melhor que apenas uma força controlasse o Cruzamento.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -136,18 +136,18 @@ Em um ato de misericórdia, [url=glossary:tunon]Tunon[/url] ofereceu a você a e
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>The [url=glossary:bastard city]Bastard City[/url] stood on the northern border between [url=glossary:kyros]Kyros[/url]' Empire and the Tiers. Built upon a natural harbor at the crossroads between realms, the city was a nexus of commerce. To the Tiers, it was the center of all wealth. To a northerner, it was little more than a backwater trading post. Its symbolic status as a gateway to the continent made it a natural first target in [url=glossary:kyros]Kyros[/url]' military conquest. Circumstances were ideal for you to prove your worth as a soldier in [url=glossary:kyros]Kyros[/url]' armies.
+      <DefaultText>A [url=glossary:cidade bastarda]Cidade Bastarda[/url] ficava na borda norte, entre o império de [url=glossary:kyros]Kyros[/url] e os Tiers. Construída sobre um porto natural entre os reinos, a cidade era um elo de comércio. Para os Tiers, ela era o centro de toda riqueza. Para os moradores do norte, ela não passava de um mero posto de troca. O status simbólico de portão de entrada ao continente fez com que ela se tornasse, naturalmente, um alvo primário na conquista militar de [url=glossary:kyros]Kyros[/url]. As circunstância eram ideais para você provar seu valor como soldado nas forças de [url=glossary:kyros]Kyros[/url].
 
-Taking this city would send a message to the rest of the Tiers: [url=glossary:kyros]Kyros[/url]' will is insurmountable.</DefaultText>
+Tomar a cidade mandaria uma menssagem ao resto dos Tiers: A vontade de [url=glossary:kyros]Kyros[/url] é insuperável.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>[url=glossary:tunon]Tunon[/url] the Adjudicator entered the palace in unopposed silence. Rather than assume the throne, he instead tapped his gavel to the marble floor. An echo grew in volume, cultivating strength as it travelled through the hall and into the city's foundations. Massive quakes rocked the city. Districts outside of the governing quarter collapsed as the earth swallowed them whole. 
+      <DefaultText>[url=glossary:tunon]Tunon[/url] o adjudicador entrou no palácio em um silêncio absoluto. Em vez de assumir o trono, ele bateu seu martelo contra o piso de mármore. O som ecoou e aumentou, ganhando força a medida que reverberava através das paredes do salão até as fundações da cidade. Tremores massivos abalaram a cidade. Distritos fora do bairro governante colapsaram ao serem engolidos pela terra.
 
-As the demonstration of his power drew to a close, [url=glossary:tunon]Tunon[/url] rendered his conquering judgment: "The [url=glossary:bastard city]Bastard City[/url] once teetered on the whims of the corrupt. Strife and political infighting are at an end. Henceforth, [url=glossary:kyros]Kyros[/url]' law will define justice."
+A medida que sua demonstração de poder chegou a um fim, [url=glossary:tunon]Tunon[/url] proferiu seu julgamento: "Uma vez a [url=glossary:cidade bastarda]Cidade Bastarda[/url] moveu-se aos caprichos dos corruptos. As intrigas e disputas politicas chegaram ao fim. Daqui em diante, as leis de [url=glossary:kyros]Kyros[/url] definirão a justiça."
 
-Those who once poisoned the city with lawlessness were consigned to the Districts-That-Were-Judged. </DefaultText>
+Aqueles que outrora envenenaram a cidade com a ilegalidade e a injustiça foram enviados aos distritos julgados. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
