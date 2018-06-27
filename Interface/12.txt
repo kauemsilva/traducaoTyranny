@@ -152,27 +152,27 @@ Aqueles que outrora envenenaram a cidade com a ilegalidade e a injustiça foram 
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>The [url=glossary:bastard city]Bastard City[/url] settled into a new state of normalcy, with every tower displaying [url=glossary:kyros]Kyros[/url]' banner. Your name was whispered alongside rumors of a decorated career to come. The armies divided into two fronts and migrated south. [url=glossary:tunon]Tunon[/url] sent word that you were to join the next frontier of [url=glossary:kyros]Kyros[/url]' conquest - either as judge and overseer of the settlement of [url=glossary:lethian's crossing]Lethian's Crossing[/url] or as a war advisor with the armies advancing into the realm of Apex.</DefaultText>
+      <DefaultText>Com todas as torres exibindo a bandeira de [url=glossary:kyros]Kyros[/url], um novo estado de normalidade foi estabelecido na [url=glossary:cidade bastarda]Cidade Bastarda[/url]. Seu nome era sussurrado junto com rumores de uma carreira condecorada por vir. As tropas se dividiram em dois grupos e migraram para o sul. [url=glossary:tunon]Tunon[/url] o convocou para juntar-se a próxima etapa da conquista de [url=glossary:kyros]Kyros[/url] - Como juiz e fiscal do assentamento no [url=glossary:cruzamento de lethian]Cruzamento de Lethian[/url] ou como conselheiro de guerra junto as tropas que avançavam para o reino de Apex.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>You used your time assisting with the injured.</DefaultText>
+      <DefaultText>Voce usou seu tempo para ajudar os feridos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>You hunted down criminals of the [url=glossary:bastard city]Bastard City[/url] and deserters of the [url=glossary:scarlet chorus]Scarlet Chorus[/url]. </DefaultText>
+      <DefaultText>Você caçou criminosos na [url=glossary:cidade bastarda]Cidade Bastarda[/url] e desertores do [url=glossary:coro escarlate]Coro Escarlate[/url]. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>You studied with Kirem of the School of Wild Wrath, and learned what you could from this exotic arcane tradition.</DefaultText>
+      <DefaultText>Você estudou com Kirem, membro da Escola do Furor Selvagem, e aprendeu o que pôde dessa exótica tradição arcana.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText>Years ago, Lethian the Bold founded a small merchant town at the intersection of ancient Oldwalls. A pact between the settlers and a mercenary company meant that caravans were able to travel without fear of bandits or Bane, and the town thrived in modest insignificance. 
+      <DefaultText>Anos atrás, Lethian, o bravo, fundou uma pequena cidade mercante na interseção dos Muros Anciões. Um pacto entre os colonos e uma companhia mercenária fez com que as caravanas pudessem viajar sem temerem bandidos ou as perdições dos Muros Anciões, e a cidade prosperou em modesta insignificância.
 
 Lethian’s Crossing drew [url=glossary:kyros]Kyros[/url]’ attention for the iron deposits in the surrounding hills. With the region under [url=glossary:kyros]Kyros[/url]’ control, the Northern smith-mages could set up workshops to refine ore and arm the [url=glossary:disfavored]Disfavored[/url] with the finest weapons in the known world. 
 
