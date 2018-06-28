@@ -174,21 +174,21 @@ Aqueles que outrora envenenaram a cidade com a ilegalidade e a injustiça foram 
       <ID>114</ID>
       <DefaultText>Anos atrás, Lethian, o bravo, fundou uma pequena cidade mercante na interseção dos Muros Anciões. Um pacto entre os colonos e uma companhia mercenária fez com que as caravanas pudessem viajar sem temerem bandidos ou as perdições dos Muros Anciões, e a cidade prosperou em modesta insignificância.
 
-Lethian’s Crossing drew [url=glossary:kyros]Kyros[/url]’ attention for the iron deposits in the surrounding hills. With the region under [url=glossary:kyros]Kyros[/url]’ control, the Northern smith-mages could set up workshops to refine ore and arm the [url=glossary:disfavored]Disfavored[/url] with the finest weapons in the known world. 
+O cruzamento de Lethian chamou a atenção de [url=glossary:kyros]Kyros[/url] por seus depósitos de ferro ao redor das colinas. Com a região sob o controle de [url=glossary:kyros]Kyros[/url], os mago-artesões do norte puderam estabelecer oficinas onde refinavam minerais e armavam os [url=glossary:desfavorecidos]Desfavorecidos[/url] com as melhores armas do mundo conhecido.
 
-The Archon of Secrets dismantled the mercenary support with a generous bribe, taking the Crossing in a bloodless victory. [url=glossary:tunon]Tunon[/url] dispatched you to travel alongside [url=glossary:kyros]Kyros[/url]' forces and bring order to the region.</DefaultText>
+O Arconte dos segredos desmantelou o suporte dos mercenários com uma propina generosa, tomando assim o Cruzamento sem derramar sangue. [url=glossary:tunon]Tunon[/url] o enviou para viajar junto as forças de [url=glossary:kyros]Kyros[/url] e trazer ordem para a região.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>159</ID>
-      <DefaultText>The Realm of Stalwart was best known for its proud army - disciplined, courageous, and undefeated on their home soil. Skill and resolve made Stalwart a military power that [url=glossary:kyros]Kyros[/url]' forces approached with due caution. 
+      <DefaultText>O Reino de Stalwart era conhecido por seu exército orgulhoso - disciplinado, corajoso, e invicto em solo nativo. Habilidade e determinação fizeram do poder militar de Stalwart uma força a qual as tropas de [url=glossary:kyros]Kyros[/url] tiveram que abordar com devida cautela.
 
-With its southern position, Stalwart had been largely safe from war - watching for two years as its neighbors fell to [url=glossary:kyros]Kyros[/url]' forces. On the dawn of the third year of war, [url=glossary:kyros]Kyros[/url]' forces were finally poised to invade the Stalwart peninsula, and subdue the Tier's most vaunted army.</DefaultText>
+Devido a seu posicionamento mais ao sul, Stalwart esteve bastante segura - assistindo por dois anos enquanto seus vizinhos caiam perante as forças de [url=glossary:kyros]Kyros[/url]. No alvorecer do terceiro ano de guerra, as forças de [url=glossary:kyros]Kyros[/url] estavam finalmente prontas para invadir a península de Stalwart, e subjugar o exército mais confiante dos Tiers.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>160</ID>
-      <DefaultText>With its easily-defended position and rich military tradition, the realm of Stalwart was the most formidable realm in the Tiers.</DefaultText>
+      <DefaultText>Com sua posição facilmente defensível e sua rica tradição militar, o Reino de Stalwart foi o reino mais formidável nos Tiers.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
