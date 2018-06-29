@@ -33,162 +33,162 @@ Durante anos, você viveu com esses homens selvagens em suas casas migratórias 
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>During the Conquest you will decide your character's actions during [url=glossary:kyros]Kyros[/url]' invasion of the Tiers, shaping the world through which you will adventure over the course of the game.
+      <DefaultText>No modo Conquista você decidirá as ações de seu personagem durante a invasão de [url=glossary:kyros]Kyros[/url] aos Tiers, Moldando o mundo através do qual você irá se aventurar ao decorrer do jogo.
 
-Each choice you make affects your character and how major factions of the Tiers respond to you.
+Cada escolha que você faz afeta seu personagem e como as facções principais dos Tiers respondem a você.
 
-Your decisions matter - choose wisely.</DefaultText>
+Suas decisões importam - Escolha sabiamente.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>You granted control of [url=glossary:lethian's crossing]Lethian's Crossing[/url] to the [url=glossary:scarlet chorus]Scarlet Chorus[/url].</DefaultText>
+      <DefaultText>Você concedeu o controle do [url=glossary:Cruzamento de Lethian]Cruzamento de Lethian[/url] ao [url=glossary:coro escarlate]Coro Escarlate[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>You granted control of [url=glossary:lethian's crossing]Lethian's Crossing[/url] to the [url=glossary:disfavored]Disfavored[/url].</DefaultText>
+      <DefaultText>Você concedeu o controle do [url=glossary:Cruzamento de Lethian]Cruzamento de Lethian[/url] aos [url=glossary:desfavorecidos]Desfavorecidos[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>With the mercenaries expelled and [url=glossary:lethian's crossing]Lethian's Crossing[/url] under new leadership, [url=glossary:kyros]Kyros[/url]' forces congratulated themselves on bringing order to the settlement and guaranteeing a productive flow of resources. 
+      <DefaultText>Com a expulsão dos mercenários e o [url=glossary:Cruzamento de Lethian]Cruzamento de Lethian[/url] sob nova liderança, as forças de [url=glossary:kyros]Kyros[/url] parabenizaram-se por trazerem ordem ao assentamento e garantirem um fluxo produtivo de recursos. 
 
-Over the course of this diversion, the army front advanced further into the Tiers. Your skills were needed in the Realm of Azure, Stalwart, or the [url=glossary:vellum citadel]Vellum Citadel[/url].</DefaultText>
+Ao decorrer dessa incursão, a linha de frente adentrou ainda mais nos Tiers. Suas habilidades foram necessárias no Reino de Azure, Stalwart, ou na [url=glossary:cidadela de vellum]Cidadela de Vellum[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>Tragedy struck when a mercenary hired by [url=glossary:the voices of nerat]the Voices of Nerat[/url] injured a [url=glossary:forge-bound]Forge-Bound[/url] artisan, leaving him unable to practice his craft. [url=glossary:tunon]Tunon[/url] ordered the mercenaries to leave the city in the hands of [url=glossary:kyros]Kyros[/url]' more responsible servants.
+      <DefaultText>A tragédia aconteceu quando um mercenário contratado pelas  [url=glossary:As Vozes de Nerat]Vozes de Nerat[/url] feriu um artesão dos [url=glossary:mestres da forja]Mestres da forja[/url], deixando ele incapaz de exercer seu ofício. [url=glossary:tunon]Tunon[/url] ordenou que os mercenário deixassem a cidade nas mãos de servos de [url=glossary:kyros]Kyros[/url] mais competentes.
 
-Only a token garrison could be left behind while the armies returned to the front. As the [url=glossary:disfavored]Disfavored[/url] and [url=glossary:scarlet chorus]Scarlet Chorus[/url] showed increasing tension and hostility toward each other, [url=glossary:tunon]Tunon[/url] decreed it best that only one force control the Crossing.</DefaultText>
+Apenas uma guarnição simbólica pôde ser deixada enquanto as tropas retornavam ao front de batalha. Como os [url=glossary:desfavorecido]Desfavorecidos[/url] e o [url=glossary:Coro Escarlate]Coro Escarlate[/url] demonstraram hostilidade e uma tensão crescente entre si, [url=glossary:tunon]Tunon[/url] decretou que seria melhor que apenas uma força controlasse o Cruzamento.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>The [url=glossary:vellum citadel]Vellum Citadel[/url] was an archive and library of massive scale. Its inhabitants were known as the School of Ink and Quill, a circle of mages that, centuries ago, carved out their own mountainous refuge on lands unsettled by the other major realms.
+      <DefaultText>A [url=glossary:Cidadela de Vellum]Cidadela de Vellum[/url] era um depósito de documentos e uma livraria de proporção massiva. Seus habitantes eram conhecidos como a Escola da pena e da tinta, um círculo de magos que, a seculos atrás, esculpiram seu próprio refugio montanhoso em terras não colonizadas pelas outras facções maiores.
 
-Legends said that the Citadel housed a treasure trove of arcane knowledge. The Overlord's spies infiltrated the school and confirmed as much. The time was ripe to send a detachment to the great library fortress, and force the scholars to yield to [url=glossary:kyros]Kyros[/url].</DefaultText>
+Lendas diziam que a cidadela abrigava um manancial de conhecimento arcano. Espiões do soberano se infiltraram na escola e puderam confirmar a veracidade de tais lendas. Era tempo de mandar um destacamento à grande livraria fortaleza, e forçar os eruditos a se renderam a [url=glossary:kyros]Kyros[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>Not wishing to pay to feed and house two, the madam that purchased your mother sold you to the Proving Grounds, the Northern Empire's bloodiest, most notorious fighting arena. Given only enough training to assure the show isn’t over too soon, your natural prowess and survival instinct led you to one victory after another. There was no elegant swordplay, no formalized duels - just brutal melee and the stench of blood, shit, and bronze with each day’s gruesome necessities.
+      <DefaultText>Desejando não ter que gastar dinheiro alimentando e abrigando a dois, a senhora que comprou sua mãe lhe vendeu aos Campos da Provação, a arena mais notória e sanguinária do império do norte. Recebendo treinamento suficiente apenas para garantir que o show não fosse tão breve, sua capacidade natural e seus instintos de sobrevivência o levaram a uma vitória após a outra. Não havia nenhuma esgrima elegante, nenhum duelo formal - apenas o combate brutal e o odor de sangue, merda, e bronze com as necessidades horrendas de cada dia.
 
-It is said that any fighter that slays a dozen others in the grand melee is given her freedom, but in three hundred years, only three warriors have ever walked away from the Proving Grounds. When the closing horns sounded and thirteen corpses lay about your feet, you became the fourth to be granted freedom to thunderous applause - but this autonomy was short-lived. Within days, word of your accomplishment made its way to the Archon of Justice.</DefaultText>
+É dito que qualquer lutador que aniquila dezenas de outros combatentes no grande embate conquista sua liberdade, mas em trezentos anos, apenas três guerreiros conseguiram deixar os Campos da Provação. Quando as trombetas derradeiras soaram e treze corpos jaziam sob seus pés, você se tornou o quarto liberto ao som estrondoso dos aplausos de toda a arena - porém, essa liberdade durou pouco. Em poucos dias, a notícia de seus feitos chegou até o Arconte da justiça.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>Unable to settle the year's accounts with grain, your parents offered you as a tithe to the Overlord instead. Seeing your first battles as a child, you've known all your life how to fight, how to stay calm at the sight of blood and disembowelment, and how to rely on your fellow warriors. Deemed smarter than the average killer, you were groomed for command and given an education in letters and numbers.
+      <DefaultText>Incapazes de pagar as dívidas anuais com grãos, seus pais lhe ofereceram como dizimo ao Soberano. Presenciando suas primeiras batalhas ainda quando criança, você sempre soube como lutar, como permanecer calmo diante de sangue e desmembramentos, e a confiar em seus companheiros de guerra. Considerado mais inteligente do que a maioria dos matadores, você foi alfabetizado e treinado para comandar.
 
-With rumors of war, it seemed recruitment into the [url=glossary:disfavored]Disfavored[/url] legion would be the obvious match for your skills, but the Archon of Justice is known to say that good iron is not used for swords, and good minds are not used for soldiers. Claimed by [url=glossary:tunon]Tunon[/url], you were instead drafted into the Court of Fatebinders, where your martial skills were put to use in the enforcement of [url=glossary:kyros]Kyros[/url]' laws.</DefaultText>
+Com rumores de guerra, ser recrutado pela legião dos [url=glossary:desfavorecidos]Desfavorecidos[/url] pareceu ser a escolha obvia para suas habilidades, no entanto, o Arconte da Justiça é conhecido por dizer que um bom ferro não é usado para espadas, e boas mentes não são usadas como soldados. Em vez de se juntar a legião, você foi Reivindicado por [url=glossary:tunon]Tunon[/url] e selecionado para a Corte dos Arautos, onde suas habilidades márcias foram colocadas em uso na execução das leis de [url=glossary:kyros]Kyros[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>Accused of a crime you most certainly did commit, you stood before [url=glossary:tunon]Tunon[/url] the Adjudicator, Archon of Justice, and argued your case with eloquence and conviction. Impressed by your logic, reason, and confidence, he found you guilty anyway.
+      <DefaultText>Acusado de um crime que certamente cometeu, você se pôs perante a [url=glossary:tunon]Tunon[/url] o adjudicador, o Arconte da justiça, e argumentou seu caso com eloquência e convicção. Impressionado por sua lógica, rasão e confiança, ele o julgou culpado de qualquer forma.
 
-It is rumored that [url=glossary:tunon]Tunon[/url] selects many of his agents from his prisoners - who better to catch the wicked than those versed in such ways? 
+Rumores dizem que [url=glossary:tunon]Tunon[/url] seleciona muitos de seus agentes dentre seus prisioneiros - Quem melhor para pegar os perversos do que aqueles versados em tais caminhos?
 
-In his mercy, [url=glossary:tunon]Tunon[/url] offered you the choice of two sentences: decades languishing in prison or a lifetime serving him in the court of Fatebinders. The choice was an easy one, and instead of seeing the inside of a cell, you were trained in letters and numbers, magic and war. The laws you once broke are now yours to interpret and enforce.</DefaultText>
+Em um ato de misericórdia, [url=glossary:tunon]Tunon[/url] ofereceu a você a escolha entre duas sentenças: décadas definhando em uma prisão ou uma vida inteira servindo-o na Corte dos Arautos. A escolha foi fácil, em vez de conhecer uma cela por dentro, lhe foi ensinado sobre letras e números, magia e guerra. As leis que uma vez você quebrou, agora são sua responsabilidade para interpretar e executar.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>Sword and Shield</DefaultText>
+      <DefaultText>espada e escudo</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>Greatsword</DefaultText>
+      <DefaultText>Montante</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>Unarmed Attacks</DefaultText>
+      <DefaultText>Ataques desarmados</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>Dual-Wielding</DefaultText>
+      <DefaultText>Armas duplas</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>Shortbow</DefaultText>
+      <DefaultText>Arco curto</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>Frost Spells</DefaultText>
+      <DefaultText>Magias de gelo</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>Javelin</DefaultText>
+      <DefaultText>Dardo</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>Shock Spells</DefaultText>
+      <DefaultText>Magias de raio</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>The [url=glossary:bastard city]Bastard City[/url] stood on the northern border between [url=glossary:kyros]Kyros[/url]' Empire and the Tiers. Built upon a natural harbor at the crossroads between realms, the city was a nexus of commerce. To the Tiers, it was the center of all wealth. To a northerner, it was little more than a backwater trading post. Its symbolic status as a gateway to the continent made it a natural first target in [url=glossary:kyros]Kyros[/url]' military conquest. Circumstances were ideal for you to prove your worth as a soldier in [url=glossary:kyros]Kyros[/url]' armies.
+      <DefaultText>A [url=glossary:cidade bastarda]Cidade Bastarda[/url] ficava na borda norte, entre o império de [url=glossary:kyros]Kyros[/url] e os Tiers. Construída sobre um porto natural entre os reinos, a cidade era um elo de comércio. Para os Tiers, ela era o centro de toda riqueza. Para os moradores do norte, ela não passava de um mero posto de troca. O status simbólico de portão de entrada ao continente fez com que ela se tornasse, naturalmente, um alvo primário na conquista militar de [url=glossary:kyros]Kyros[/url]. As circunstância eram ideais para você provar seu valor como soldado nas forças de [url=glossary:kyros]Kyros[/url].
 
-Taking this city would send a message to the rest of the Tiers: [url=glossary:kyros]Kyros[/url]' will is insurmountable.</DefaultText>
+Tomar a cidade mandaria uma menssagem ao resto dos Tiers: A vontade de [url=glossary:kyros]Kyros[/url] é insuperável.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>[url=glossary:tunon]Tunon[/url] the Adjudicator entered the palace in unopposed silence. Rather than assume the throne, he instead tapped his gavel to the marble floor. An echo grew in volume, cultivating strength as it travelled through the hall and into the city's foundations. Massive quakes rocked the city. Districts outside of the governing quarter collapsed as the earth swallowed them whole. 
+      <DefaultText>[url=glossary:tunon]Tunon[/url] o adjudicador entrou no palácio em um silêncio absoluto. Em vez de assumir o trono, ele bateu seu martelo contra o piso de mármore. O som ecoou e aumentou, ganhando força a medida que reverberava através das paredes do salão até as fundações da cidade. Tremores massivos abalaram a cidade. Distritos fora do bairro governante colapsaram ao serem engolidos pela terra.
 
-As the demonstration of his power drew to a close, [url=glossary:tunon]Tunon[/url] rendered his conquering judgment: "The [url=glossary:bastard city]Bastard City[/url] once teetered on the whims of the corrupt. Strife and political infighting are at an end. Henceforth, [url=glossary:kyros]Kyros[/url]' law will define justice."
+A medida que sua demonstração de poder chegou a um fim, [url=glossary:tunon]Tunon[/url] proferiu seu julgamento: "Uma vez a [url=glossary:cidade bastarda]Cidade Bastarda[/url] moveu-se aos caprichos dos corruptos. As intrigas e disputas politicas chegaram ao fim. Daqui em diante, as leis de [url=glossary:kyros]Kyros[/url] definirão a justiça."
 
-Those who once poisoned the city with lawlessness were consigned to the Districts-That-Were-Judged. </DefaultText>
+Aqueles que outrora envenenaram a cidade com a ilegalidade e a injustiça foram enviados aos distritos julgados. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>The [url=glossary:bastard city]Bastard City[/url] settled into a new state of normalcy, with every tower displaying [url=glossary:kyros]Kyros[/url]' banner. Your name was whispered alongside rumors of a decorated career to come. The armies divided into two fronts and migrated south. [url=glossary:tunon]Tunon[/url] sent word that you were to join the next frontier of [url=glossary:kyros]Kyros[/url]' conquest - either as judge and overseer of the settlement of [url=glossary:lethian's crossing]Lethian's Crossing[/url] or as a war advisor with the armies advancing into the realm of Apex.</DefaultText>
+      <DefaultText>Com todas as torres exibindo a bandeira de [url=glossary:kyros]Kyros[/url], um novo estado de normalidade foi estabelecido na [url=glossary:cidade bastarda]Cidade Bastarda[/url]. Seu nome era sussurrado junto com rumores de uma carreira condecorada por vir. As tropas se dividiram em dois grupos e migraram para o sul. [url=glossary:tunon]Tunon[/url] o convocou para juntar-se a próxima etapa da conquista de [url=glossary:kyros]Kyros[/url] - Como juiz e fiscal do assentamento no [url=glossary:cruzamento de lethian]Cruzamento de Lethian[/url] ou como conselheiro de guerra junto as tropas que avançavam para o reino de Apex.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>You used your time assisting with the injured.</DefaultText>
+      <DefaultText>Voce usou seu tempo para ajudar os feridos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>You hunted down criminals of the [url=glossary:bastard city]Bastard City[/url] and deserters of the [url=glossary:scarlet chorus]Scarlet Chorus[/url]. </DefaultText>
+      <DefaultText>Você caçou criminosos na [url=glossary:cidade bastarda]Cidade Bastarda[/url] e desertores do [url=glossary:coro escarlate]Coro Escarlate[/url]. </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>You studied with Kirem of the School of Wild Wrath, and learned what you could from this exotic arcane tradition.</DefaultText>
+      <DefaultText>Você estudou com Kirem, membro da Escola do Furor Selvagem, e aprendeu o que pôde dessa exótica tradição arcana.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText>Years ago, Lethian the Bold founded a small merchant town at the intersection of ancient Oldwalls. A pact between the settlers and a mercenary company meant that caravans were able to travel without fear of bandits or Bane, and the town thrived in modest insignificance. 
+      <DefaultText>Anos atrás, Lethian, o bravo, fundou uma pequena cidade mercante na interseção dos Muros Anciões. Um pacto entre os colonos e uma companhia mercenária fez com que as caravanas pudessem viajar sem temerem bandidos ou as perdições dos Muros Anciões, e a cidade prosperou em modesta insignificância.
 
-Lethian’s Crossing drew [url=glossary:kyros]Kyros[/url]’ attention for the iron deposits in the surrounding hills. With the region under [url=glossary:kyros]Kyros[/url]’ control, the Northern smith-mages could set up workshops to refine ore and arm the [url=glossary:disfavored]Disfavored[/url] with the finest weapons in the known world. 
+O cruzamento de Lethian chamou a atenção de [url=glossary:kyros]Kyros[/url] por seus depósitos de ferro ao redor das colinas. Com a região sob o controle de [url=glossary:kyros]Kyros[/url], os mago-artesões do norte puderam estabelecer oficinas onde refinavam minerais e armavam os [url=glossary:desfavorecidos]Desfavorecidos[/url] com as melhores armas do mundo conhecido.
 
-The Archon of Secrets dismantled the mercenary support with a generous bribe, taking the Crossing in a bloodless victory. [url=glossary:tunon]Tunon[/url] dispatched you to travel alongside [url=glossary:kyros]Kyros[/url]' forces and bring order to the region.</DefaultText>
+O Arconte dos segredos desmantelou o suporte dos mercenários com uma propina generosa, tomando assim o Cruzamento sem derramar sangue. [url=glossary:tunon]Tunon[/url] o enviou para viajar junto as forças de [url=glossary:kyros]Kyros[/url] e trazer ordem para a região.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>159</ID>
-      <DefaultText>The Realm of Stalwart was best known for its proud army - disciplined, courageous, and undefeated on their home soil. Skill and resolve made Stalwart a military power that [url=glossary:kyros]Kyros[/url]' forces approached with due caution. 
+      <DefaultText>O Reino de Stalwart era conhecido por seu exército orgulhoso - disciplinado, corajoso, e invicto em solo nativo. Habilidade e determinação fizeram do poder militar de Stalwart uma força a qual as tropas de [url=glossary:kyros]Kyros[/url] tiveram que abordar com devida cautela.
 
-With its southern position, Stalwart had been largely safe from war - watching for two years as its neighbors fell to [url=glossary:kyros]Kyros[/url]' forces. On the dawn of the third year of war, [url=glossary:kyros]Kyros[/url]' forces were finally poised to invade the Stalwart peninsula, and subdue the Tier's most vaunted army.</DefaultText>
+Devido a seu posicionamento mais ao sul, Stalwart esteve bastante segura - assistindo por dois anos enquanto seus vizinhos caiam perante as forças de [url=glossary:kyros]Kyros[/url]. No alvorecer do terceiro ano de guerra, as forças de [url=glossary:kyros]Kyros[/url] estavam finalmente prontas para invadir a península de Stalwart, e subjugar o exército mais confiante dos Tiers.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>160</ID>
-      <DefaultText>With its easily-defended position and rich military tradition, the realm of Stalwart was the most formidable realm in the Tiers.</DefaultText>
+      <DefaultText>Com sua posição facilmente defensível e sua rica tradição militar, o Reino de Stalwart foi o reino mais formidável nos Tiers.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
